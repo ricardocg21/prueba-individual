@@ -2,3 +2,6 @@ Mi primer programa
 practicando un poco cansado
 agregando codigo 
 agregando codigo 
+nuevo codigo que tengo en la rama c 
+este codigo solo es el de la ramac 
+este codigo me lo llevaré al master
